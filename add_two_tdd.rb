@@ -11,6 +11,7 @@ end
 
 
 
+
 # Add 2 to the number.
 def add_two(number)
   if number.class == String
